@@ -19,7 +19,7 @@
 ### 🛠 Tools
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=Adobe Premiere Pro&logoColor=black"/>
-<img src="https://img.shields.io/badge/Adobe After Effect-9999FF?style=flat-square&logo=Adobe After Effect&logoColor=black"/>
+<img src="https://img.shields.io/badge/Adobe After Effects-9999FF?style=flat-square&logo=Adobe After Effects&logoColor=black"/>
 <img src="https://img.shields.io/badge/Adobe Lightroom-31A8FF?style=flat-square&logo=Adobe Lightroom&logoColor=black"/>
 <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=black"/>
   
