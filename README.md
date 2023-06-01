@@ -1,12 +1,12 @@
 
-### 😊 안녕하세요 개발자와 디자이너가 되고픈 사람입니다
+### 😊 안녕하세요 개발자와 디자이너가 되고픈 사람입니다.
 
 
 ### 😉 Contact
 <a href="https://www.instagram.com/hyo__831/" target="_blank">
-<img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" target="_blank"/>
 
-<img src="https://img.shields.io/badge/widrndi25@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/widrndi25@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white" />
 
 ### ✒Skill
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
